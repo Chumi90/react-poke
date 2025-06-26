@@ -40,3 +40,39 @@
 .read-the-docs {
   color: #888;
 }
+
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.pokemon {
+  margin-top: 20px;
+}
+
+.error {
+  color: red;
+}
+
+body {
+  background-color: #e49898;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  max-width: 400px;
+  margin: 20px;
+  padding: 20px;
+  background-color: #5a5656;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: left;
+}
